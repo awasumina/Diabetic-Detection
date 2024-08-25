@@ -1,10 +1,10 @@
 # Diabetic Detection - Naive Bayes Classifier
 
-This project implements a Naive Bayes classifier for the Pima Indians Diabetes dataset using Python. The classifier is designed to predict the presence of diabetes in patients based on several medical attributes.
+This project implements a Naive Bayes classifier for the Pima Diabetes dataset using Python. The classifier is designed to predict the presence of diabetes in patients based on several medical attributes.
 
 ## Dataset
 
-The dataset used in this project is the [Pima Indians Diabetes dataset](https://www.kaggle.com/uciml/pima-indians-diabetes-database). This dataset contains 768 rows of patient data with the following attributes:
+The dataset used in this project is the [Pima Diabetes dataset]. This dataset contains 768 rows of patient data with the following attributes:
 
 - `Pregnancies`: Number of times pregnant
 - `Glucose`: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
