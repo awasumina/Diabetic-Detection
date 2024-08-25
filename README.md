@@ -32,9 +32,10 @@ The dataset used in this project is the [Pima Diabetes dataset]. This dataset co
 - **`getPredictions(summaries, testSet)`**: Gets predictions for the test set.
 - **`getAccuracy(testSet, predictions)`**: Calculates the accuracy of the classifier.
 
+
 ## Results
 
-Upon running the code, you will see the following output:
+Upon running the code, the following output is seen:
 
 ```
 Split 768 rows into train 514 and test 254 rows
