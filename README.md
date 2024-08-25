@@ -44,15 +44,8 @@ Accuracy: 62.99%
 
 This indicates the model has an accuracy of approximately 63% on the test dataset.
 
+
 ## Notes
 
 - The accuracy may vary slightly due to the random splitting of the dataset.
 - This implementation uses a simple Naive Bayes classifier and can be further optimized or compared with other classification algorithms for better performance.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust the README to better fit your specific needs or preferences!
