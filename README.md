@@ -16,30 +16,6 @@ The dataset used in this project is the [Pima Diabetes dataset]. This dataset co
 - `Age`: Age (years)
 - `Outcome`: Class variable (0 or 1) where 1 indicates presence of diabetes and 0 indicates absence
 
-## Requirements
-
-To run this code, you'll need the following Python packages:
-- `csv`
-- `random`
-- `math`
-- `google.colab` (for file upload functionality in Google Colab)
-
-## How to Run
-
-1. **Upload the Dataset:**
-   Ensure that the Pima Indians Diabetes dataset CSV file is uploaded. You will be prompted to upload the file using the Google Colab file upload interface.
-
-2. **Execute the Code:**
-   Run the provided code in a Google Colab notebook or your local Python environment. The code will:
-   - Load the CSV file.
-   - Split the dataset into training and test sets.
-   - Train a Naive Bayes classifier.
-   - Test the classifier and calculate the accuracy.
-
-3. **View Results:**
-   The output will include:
-   - The number of rows split into training and test sets.
-   - The accuracy of the Naive Bayes classifier on the test set.
 
 ## Code Explanation
 
